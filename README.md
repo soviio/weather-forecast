@@ -9,10 +9,8 @@ weather data for a specified location and date from an external service.
 
 requirements.txt lists all the Python dependencies required for a project to run. 
 
-hw.postman_collection.json - JSON data represents a Postman collection.
+2.postman_collection.json - JSON data represents a Postman collection.
 
-JSON responses: response1.json
-                response2.json
-                response3.json
+JSON responses: response1.json, response2.json, response3.json.
 
 komar-sofiia-homework1.txt contains links.
