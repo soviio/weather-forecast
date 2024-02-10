@@ -9,7 +9,7 @@ weather data for a specified location and date from an external service.
 
 requirements.txt lists all the Python dependencies required for a project to run. 
 
-2.postman_collection.json - JSON data represents a Postman collection.
+weather.postman_collection.json - JSON data represents a Postman collection.
 
 JSON responses: response1.json, response2.json, response3.json.
 
