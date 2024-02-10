@@ -5,7 +5,7 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-API_TOKEN = 'sova'
+API_TOKEN = 'your_token'
 WEATHER_API_KEY = '3P5243M7ZJBAQWKJUZAGD2MKV'
 
 
